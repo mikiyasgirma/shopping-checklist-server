@@ -34,7 +34,7 @@ exports.createItem = (req, res) => {
   items.push(newItem);
 
   fs.writeFile(
-    `${__dirname}/dev-data/data/items.json`,
+    `${__dirname}/../dev-data/data/items.json`,
     JSON.stringify(items),
     (err) => {
       res.status(201).json({

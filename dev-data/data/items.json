@@ -3,21 +3,40 @@
     "id": 1,
     "name": "iphone 13",
     "cost": 120000,
-    "time": "2021-06-19T09:00:00.000Z",
-    "description": "A new iphone 13"
+    "timeToBuy": "2021-06-19T09:00:00.000Z",
+    "description": "A new iphone 13",
+    "isBought": false
   },
   {
     "id": 2,
     "name": "iphone 11",
     "cost": 110000,
-    "time": "2021-06-19T09:00:00.000Z",
-    "description": "A new iphone 11"
+    "timeToBuy": "2021-06-19T09:00:00.000Z",
+    "description": "A new iphone 11",
+    "isBought": false
   },
   {
     "id": 3,
     "name": "iphone X",
     "cost": 100000,
+    "timeToBuy": "2021-06-19T09:00:00.000Z",
+    "description": "A new iphone X",
+    "isBought": true
+  },
+  {
+    "id": 4,
+    "name": "samsung 22",
+    "cost": 115000,
     "time": "2021-06-19T09:00:00.000Z",
-    "description": "A new iphone X"
+    "description": "A new iphone 13",
+    "isBought": true
+  },
+  {
+    "id": 5,
+    "name": "samsung 22",
+    "cost": 115000,
+    "time": "2021-06-19T09:00:00.000Z",
+    "description": "A new iphone 13",
+    "isBought": true
   }
 ]
