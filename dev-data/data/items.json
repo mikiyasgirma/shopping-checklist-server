@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "iphone 13",
+    "cost": 120000,
+    "time": "2021-06-19T09:00:00.000Z",
+    "description": "A new iphone 13"
+  },
+  {
+    "id": 2,
+    "name": "iphone 11",
+    "cost": 110000,
+    "time": "2021-06-19T09:00:00.000Z",
+    "description": "A new iphone 11"
+  },
+  {
+    "id": 3,
+    "name": "iphone X",
+    "cost": 100000,
+    "time": "2021-06-19T09:00:00.000Z",
+    "description": "A new iphone X"
+  }
+]
